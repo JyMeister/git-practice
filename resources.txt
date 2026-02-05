@@ -1,0 +1,6 @@
+https://www.learnjs.tech/git-fundamentals
+I added this because it helped me understand how to navagate.
+https://www.learnjs.tech/git-github-workflow
+I added this because I finaly learned how to properly use git to push my work.
+I've taken some notes and screenshot the common commands in order to quickly reference them throughout the course.
+I included this because Its how I, a visual learner, is able to retain info.

@@ -1,0 +1,3 @@
+I learned about how to use and operate Git and Github to familiarize myself for furture projects.
+Git and github is a version control program that helps with managing your work and collab with other devs.
+Your history is forever saved so long as it is pushed through git/github and you can always go back to your old saves.
